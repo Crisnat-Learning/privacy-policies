@@ -46,7 +46,7 @@ I value your trust in providing us your Personal Information, thus we are strivi
 
 **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. This applications displayed data provided by [NewsAPI.org](https://newsapi.org/) which is an open-source authentic news provider website, basically it is developer version of Google NEWS.
 
 **Children’s Privacy**
 
@@ -61,3 +61,4 @@ This policy is effective as of 2023-02-14
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at crisnatdevelopers@gmail.com.
+The application is developed by [Krishna Kant Tripathi](https://www.linkedin.com/in/tripathikrishna/) and [Ratnanjali Satsangi](https://www.linkedin.com/in/ratnanjali/)
