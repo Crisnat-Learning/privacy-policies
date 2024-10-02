@@ -57,6 +57,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2022-10-28
 
+**Disclaimer:** This application is NOT GOVERNMENT ORGANISATION and not linked with the Government of India and any its State Government in any way. The application DO NOT represent or endorse or linked, authorised or sponsored by any Indian government entity or any of its subsidiaries or its affiliates in any way. The app provide information aggregated from [parivahan-sarathi](https://parivahan.gov.in/parivahan/) which is already available in the public domain. All the content provided on the app is only for the informational purposes to the users. The application is not affiliated with any Government services or person.
+
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at crisnatdevelopers@gmail.com.
