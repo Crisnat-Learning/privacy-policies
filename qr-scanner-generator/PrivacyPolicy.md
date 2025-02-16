@@ -55,6 +55,6 @@ We may update this policy occasionally. Any changes will be posted here, and you
 ## 8. Contact Us
 If you have any questions about this Privacy Policy, you can contact us at:
 
-📧 **Email**: support@crisnat.com  
+📧 **Email**: support@crisnat.com / tripathikrishnakanttripathi@gmail.com
 🌐 **Website**: www.crisnat.com
 
