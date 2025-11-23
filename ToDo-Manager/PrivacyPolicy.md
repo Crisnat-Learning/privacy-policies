@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: [Date, e.g., October 26, 2023]**
+**Last updated: November 24, 2025**
 
 This Privacy Policy describes how Crisnat Foundations ("we," "us," or "our") collects, uses, and shares information in connection with your use of our mobile application, ToDo Manager (the "App").
 
@@ -69,4 +69,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
 * Email: support@crisnat.com
-* Website/Developer Page: [Crisnat](https://www.crisnat.com)
+* Website/Developer Page: [Crisnat](www.crisnat.com)
