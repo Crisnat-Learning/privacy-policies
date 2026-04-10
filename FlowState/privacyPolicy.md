@@ -1,3 +1,7 @@
+# Privacy Policy
+
+**Last Updated:** April 11, 2026
+
 Crisnat Foundations ("we", "us", or "our") built the FlowState app as a Premium Ad-Free utility. This SERVICE is provided by Crisnat Foundations as a paid application and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
